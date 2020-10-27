@@ -1,0 +1,35 @@
+.form-container{
+    background: #fff;
+    padding : 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    border-right:100px;
+    width: 400px;
+/*   align-content: flex-end;*/
+/* height: 20px;*/
+        
+}
+.form-container1{
+    background: #fff;
+    padding: 
+        10px 10px 10px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    height: 50px;
+    width: 400px;
+    align-content: flex-end;
+/*    text-align-last: justify;*/
+    text-align: center;
+
+        
+}
+.wid{
+    border: 10px;
+    text-align: center;
+}
+#
+/*
+a {
+  text-decoration: none;
+  color: #008CBA;
+}*/
